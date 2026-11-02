@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "notes": "Redare nouă: un singur buton Start/Stop (tasta A), secunde pe slide și Reia de la început. Design rafinat în toată aplicația.",
-  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.2.0.mpupdate",
-  "sha256": "6904653f94043807affdebbef984f37db76650b049275b5c3cc66fc956a0e51b"
+  "version": "2.2.1",
+  "notes": "Contrast mai bun pe ambele teme (text secundar lizibil și pe proiector), cifre care nu mai sar, stări clare pentru butoane.",
+  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.2.1.mpupdate",
+  "sha256": "0854ae3cce5d7250ae468f5d50638467c91398f3d475a109fc2ce67694bf2615"
 }

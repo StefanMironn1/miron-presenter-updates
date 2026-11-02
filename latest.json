@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "notes": "Bucla de bun venit și avansarea automată pornesc acum singure, din prima apăsare pe Live. Adresa actualizărilor e setată automat.",
-  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.1.1.mpupdate",
-  "sha256": "fa08600dacee0e7531a58f5f0809f1f95e0a062f5c5974c558d93324f946f835"
+  "version": "2.2.0",
+  "notes": "Redare nouă: un singur buton Start/Stop (tasta A), secunde pe slide și Reia de la început. Design rafinat în toată aplicația.",
+  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.2.0.mpupdate",
+  "sha256": "6904653f94043807affdebbef984f37db76650b049275b5c3cc66fc956a0e51b"
 }

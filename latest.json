@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "notes": "Contrast mai bun pe ambele teme (text secundar lizibil și pe proiector), cifre care nu mai sar, stări clare pentru butoane.",
-  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.2.1.mpupdate",
-  "sha256": "0854ae3cce5d7250ae468f5d50638467c91398f3d475a109fc2ce67694bf2615"
+  "version": "2.3.0",
+  "notes": "Cameră live: butonul „Cameră” pune pe ecran imaginea de la telefon (iPhone prin Iriun Webcam sau Camo) sau de la o cameră web. F6 o acoperă cu negru, iar un slide sau verset nou o oprește singur.",
+  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.3.0.mpupdate",
+  "sha256": "b5ac0790a525891bf42d6359ac49c42897873248766f4d2eeed70e5a4bbc39d2"
 }

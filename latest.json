@@ -1,6 +1,16 @@
 {
-  "version": "2.3.0",
-  "notes": "Cameră live: butonul „Cameră” pune pe ecran imaginea de la telefon (iPhone prin Iriun Webcam sau Camo) sau de la o cameră web. F6 o acoperă cu negru, iar un slide sau verset nou o oprește singur.",
-  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.3.0.mpupdate",
-  "sha256": "b5ac0790a525891bf42d6359ac49c42897873248766f4d2eeed70e5a4bbc39d2"
+  "product": "miron-presenter",
+  "channel": "stable",
+  "platform": "any",
+  "version": "2.4.1",
+  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.4.1.mpupdate",
+  "sha256": "9a12869d6084d20b4ffc0de5db001414f755aab81087fcc5cee9cb5f5644d8a7",
+  "size": 28450910,
+  "notes": "Actualizări semnate digital, butonul Cameră se activează din Preferințe, mesaje mai clare la verificarea actualizărilor.",
+  "published": "2026-11-09T15:24:14.154Z",
+  "expires": "2027-03-09T15:24:14.154Z",
+  "signature": {
+    "keyId": "mp-2026-11",
+    "value": "lOrtUFaLd9MbTHxHSwdvX89fphY8D9lFOl0I8wsp4SXXScI4ppLQqs92uYKCKDe+Q7AnxEPfulGNvxTtUJiZCg=="
+  }
 }

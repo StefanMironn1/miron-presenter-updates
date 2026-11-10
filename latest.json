@@ -2,15 +2,15 @@
   "product": "miron-presenter",
   "channel": "stable",
   "platform": "any",
-  "version": "2.6.1",
-  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.6.1.mpupdate",
-  "sha256": "dfe0796eeb487ce9416eec7d56fb262efcd8c61bbb2aec9ec68ca9c77669d826",
-  "size": 37678769,
-  "notes": "Butoanele Bibliei arată și limba fiecărei versiuni. Fundaluri animate mai clare pe proiector. Actualizările se fac simplu, fără adrese de configurat.",
-  "published": "2026-11-10T08:34:18.953Z",
-  "expires": "2027-03-10T08:34:18.953Z",
+  "version": "2.6.2",
+  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.6.2.mpupdate",
+  "sha256": "41b6622034ebac06348c9f5e0a78358aee241336bb5bd1b5446af41a279c7f8b",
+  "size": 37542332,
+  "notes": "Preferințe mai simple: actualizările se fac doar din Caută actualizări. Aplicație mai mică și mai rapidă la pornire.",
+  "published": "2026-11-10T08:48:45.063Z",
+  "expires": "2027-03-10T08:48:45.063Z",
   "signature": {
     "keyId": "mp-2026-11",
-    "value": "zNNbAji9s9EvD7qgil+W+pOiWKir6QcnGbxrwdaq/Qvbo5w6yAbHDodS5mi9urD11iVpkv1MKXMjbPtHaV7iAw=="
+    "value": "IN644id1sIHoqIvJjRmUJuuAQsNFnfFct5F4mFxVUPnVHCrlzkDhABHxnd/+9ag8Op8qTyxPEJG88ePsfv/BDQ=="
   }
 }

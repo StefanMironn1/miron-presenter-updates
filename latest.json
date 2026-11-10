@@ -2,15 +2,15 @@
   "product": "miron-presenter",
   "channel": "stable",
   "platform": "any",
-  "version": "2.5.0",
-  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.5.0.mpupdate",
-  "sha256": "4e437102b66013252ed4705ba9da14070f2cef1567c0af5ab641335525ebd055",
-  "size": 28174664,
-  "notes": "Aplicația poartă doar numele Miron Presenter, cu iconiță nouă. Logo-ul bisericii tale rămâne cel ales în Preferințe.",
-  "published": "2026-11-09T15:47:47.598Z",
-  "expires": "2027-03-09T15:47:47.598Z",
+  "version": "2.6.0",
+  "url": "https://raw.githubusercontent.com/StefanMironn1/miron-presenter-updates/main/releases/miron-presenter-2.6.0.mpupdate",
+  "sha256": "b7a5291a905c02a6c5cd026c4fd470e2b7086918ce73b4ccab49bc20f2784151",
+  "size": 37677356,
+  "notes": "Iconiță nouă. Biblii noi: KJV, WEB, Vamvas, Károli, Sinodală, Riveduta, Reina-Valera 1909. Import Zefania, OSIS, USFX, USFM. Interfața în engleză (Preferințe → Limba interfeței). Ghid de start.",
+  "published": "2026-11-10T08:17:48.854Z",
+  "expires": "2027-03-10T08:17:48.854Z",
   "signature": {
     "keyId": "mp-2026-11",
-    "value": "WvZpDz+xwMWhwmvKgMYQ76o5L2oQ7LbpZ3Bljbc91MTZfm6ACDVScSgNKpQYKCQwZjOahI+DkfCB4lT0kvdKCw=="
+    "value": "vJxLIzCugLKC1USt3U97RnqOJaXkMEKrK44QHSUOmICBz+CGTswH9c6792/WopQDM8YCtsNEfaOKR/D3JNViAw=="
   }
 }
